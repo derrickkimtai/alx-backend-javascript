@@ -1,1 +1,1 @@
-0x01-ES6_promise
+<p>This directory about promises in python<p>
