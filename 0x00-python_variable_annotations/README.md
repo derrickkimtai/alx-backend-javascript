@@ -1,1 +1,0 @@
-<p this is a directory about python antonations >
